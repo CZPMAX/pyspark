@@ -1,0 +1,6 @@
+laoda,20,male
+laoer,22,female
+laoliu,28,middle
+laosan,24,male
+laosi,30,male
+laowu,26,female
